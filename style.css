@@ -30,7 +30,7 @@ body {
   font-family: "Lexend Deca", sans-serif;
   line-height: 1;
   font-weight: 400;
-  color: var(#333);
+  color: #333;
   background-color: var(--very-light-gray);
 }
 
